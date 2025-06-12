@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+chaos_model.egg-info/PKG-INFO
+chaos_model.egg-info/SOURCES.txt
+chaos_model.egg-info/dependency_links.txt
+chaos_model.egg-info/requires.txt
+chaos_model.egg-info/top_level.txt
+tests/__init__.py
+tests/test_attractor.py
+tests/test_sanity.py
